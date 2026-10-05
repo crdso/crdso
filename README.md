@@ -31,9 +31,9 @@ cardoso@github:~$ whoami
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=zRise&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=8B949E&icon_color=00FF9C" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=crdso&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=8B949E&icon_color=00FF9C" />
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zRise&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=8B949E" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crdso&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=8B949E" />
 
 </div>
 
